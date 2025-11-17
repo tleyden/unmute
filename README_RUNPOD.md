@@ -75,4 +75,6 @@ export NEXT_PUBLIC_BACKEND_SERVER_URL="https://your-instance-id-8000.proxy.runpo
 
 See readme on how to start all dockerless services.
 
+### Go to web page
 
+Open https://your-instance-id-8000.proxy.runpod.net/ on your local browser
